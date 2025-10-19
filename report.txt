@@ -1,1 +1,2 @@
 Git practice lab
+Added more details to report.
